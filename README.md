@@ -4,21 +4,24 @@ Growth mind set is a type of outlook at life. There are two types of mindsets th
 
 This is a personal based definition of what a growth mindset is and this blog is to be taken with a grain of salt. The following are things that help me have a growth mindset.
 
-### Routine
+### What aree the Benefits of having a growth mindset?
 
-_A good healthy positive routine, espcially in the morning will open up the day to more healthy positive routines._
-__
-
+**Having a growth mindsets allows you to have a positive outlook on life. **
 
 ```markdown
+# Routine
+_A good healthy positive routine, espcially in the morning will open up the day to more healthy positive routines. 
+The following things are classed as a good healthy positive routine_
+- Exercise
+- Sleep routine
 
+## Nutrition
+_The type of food that we eat has been found to have an impact on on our mental faculties. Mulnutrion can lead to depression, that is why it is important to have a balanced diet_
 
-# Header 1
-## Header 2
-### Header 3
+### Friends
 
-- Bulleted
-- List
+_Having a good set of friends who aspire to be better will also lead to having a growth mindset. It is not a myth that the company we keep has an impact on our behavoural pyschology._
+
 
 1. Numbered
 2. List
