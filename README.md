@@ -37,3 +37,8 @@ _Having a good set of friends who aspire to be better will also lead to having a
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Uses of a Terminal
+
+The Terminal is the powerhouse of any computer. Depending on the operating system, the can be called other names. 
+We use the Terminal to 
