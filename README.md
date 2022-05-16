@@ -33,9 +33,10 @@ _Having a good set of friends who aspire to be better will also lead to having a
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Conclusion
+1.**In conclusion, a growth mindset has a positve outcome to ourlives compared to a fixed mindset**
+2.****
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/S-Read3r/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
