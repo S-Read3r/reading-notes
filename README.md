@@ -1,15 +1,17 @@
-## Welcome to GitHub Pages
+## What is Growth Mind Set?
 
-You can use the [editor on GitHub](https://github.com/S-Read3r/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Growth mind set is a type of outlook at life. There are two types of mindsets that one can have. [Dr. Carol Dweck of Stanford University](https://www.wgu.edu/blog/what-is-growth-mindset-8-steps-develop-one1904.html#close) does a great job explaining what is a group mindset.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a personal based definition of what a growth mindset is and this blog is to be taken with a grain of salt. The following are things that help me have a growth mindset.
 
-### Markdown
+### Routine
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_A good healthy positive routine, espcially in the morning will open up the day to more healthy positive routines._
+__
+
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
