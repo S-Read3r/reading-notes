@@ -6,9 +6,9 @@ This is a personal based definition of what a growth mindset is and this blog is
 
 ### What are the Benefits of having a growth mindset?
 
-**Having a growth mindsets allows you to have a positive outlook on life. **
+**Having a growth mindsets allows you to have a positive outlook on life.**
 
-```markdown
+
 # Routine
 _A good healthy positive routine, espcially in the morning will open up the day to more healthy positive routines. 
 The following things are classed as a good healthy positive routine_
@@ -29,7 +29,7 @@ _Having a good set of friends who aspire to be better will also lead to having a
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![https://doublejj.com/wp-content/uploads/2020/02/group-people.jpeg](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
