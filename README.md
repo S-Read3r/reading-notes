@@ -28,7 +28,7 @@ _Having a good set of friends who aspire to be better will also lead to having a
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://doublejj.com/wp-content/uploads/2020/02/group-people.jpeg](src)
+![An image of a group of friends](https://doublejj.com/wp-content/uploads/2020/02/group-people.jpeg)
 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
