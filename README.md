@@ -4,7 +4,7 @@ Growth mind set is a type of outlook at life. There are two types of mindsets th
 
 This is a personal based definition of what a growth mindset is and this blog is to be taken with a grain of salt. The following are things that help me have a growth mindset.
 
-### What aree the Benefits of having a growth mindset?
+### What are the Benefits of having a growth mindset?
 
 **Having a growth mindsets allows you to have a positive outlook on life. **
 
