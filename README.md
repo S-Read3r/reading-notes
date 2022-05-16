@@ -9,7 +9,7 @@ This is a personal based definition of what a growth mindset is and this blog is
 **Having a growth mindsets allows you to have a positive outlook on life.**
 
 
-# Routine
+## Routine
 _A good healthy positive routine, espcially in the morning will open up the day to more healthy positive routines. 
 The following things are classed as a good healthy positive routine_
 - Exercise
@@ -18,9 +18,9 @@ The following things are classed as a good healthy positive routine_
 ## Nutrition
 _The type of food that we eat has been found to have an impact on on our mental faculties. Mulnutrion can lead to depression, that is why it is important to have a balanced diet_
 
-### Friends
+## Friends
 
-_Having a good set of friends who aspire to be better will also lead to having a growth mindset. It is not a myth that the company we keep has an impact on our behavoural pyschology._
+_Having a good set of friends who aspire to be better will also lead to having a growth mindset. It is not a myth that the company we keep has an impact on our behavoural psychology._
 
 
 1. Numbered
