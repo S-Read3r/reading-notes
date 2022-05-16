@@ -4,8 +4,7 @@
 
 ## What is a Terminal
 
-The Terminal is the powerhouse of any computer. The Terminal is known by various names depending on the operating system as an example Mac users address the terminal 
-We use the Terminal to
+The Terminal is the powerhouse of any computer. The Terminal is known by various names depending on the operating system as an example Mac users call it Command Line.
 
 ## What is the Terminal used for?
 
