@@ -26,8 +26,6 @@ _Having a good set of friends who aspire to be better will also lead to having a
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
 ![An image of a group of friends](https://doublejj.com/wp-content/uploads/2020/02/group-people.jpeg)
 
 
