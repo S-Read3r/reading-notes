@@ -16,6 +16,8 @@
 * git add .: This git command will add ALL files to Git flow since (.) was used.
 * git clone HTTP: This git command will clone a GitHub repository onto the HardDrive.
 * git status: This git command will provide information on what changed. Meaning if the cloned file has been changed.
-* git commit -m "MyMessage": This git command the  commit the | specifiedfile
+* git commit -m "MyMessage": This git command the  commit the | specifiedfile 
 * git push changedFile: This git command will push the committed file.
+
+- Remember that when writing messages are written in the imperative verberage.
 
