@@ -1,5 +1,14 @@
 ## What is Growth Mind Set?
 
+* [Class-02](https://syntax-read3r.github.io/reading-notes/class-02)
+* [Class-03](https://syntax-read3r.github.io/reading-notes/class-03)
+* [Class-04](https://syntax-read3r.github.io/reading-notes/class-04)
+* [Class-05](https://syntax-read3r.github.io/reading-notes/class-05)
+* [Class-06](https://syntax-read3r.github.io/reading-notes/class-06)
+* [Class-07](https://syntax-read3r.github.io/reading-notes/class-07)
+* [Class-08](https://syntax-read3r.github.io/reading-notes/class-08)
+
+
 Growth mind set is a type of outlook at life. There are two types of mindsets that one can have. [Dr. Carol Dweck of Stanford University](https://www.wgu.edu/blog/what-is-growth-mindset-8-steps-develop-one1904.html#close) does a great job explaining what is a group mindset.
 
 This is a personal based definition of what a growth mindset is and this blog is to be taken with a grain of salt. The following are things that help me have a growth mindset.
