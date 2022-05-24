@@ -4,6 +4,8 @@
 
 In order to understand how HTML content is rendered on a web-browser, one needs to understand how the browser interprets the HTML and JavaScript code and CSS.
 
+Before getting into this subject. There is something called S.E.O which stands for Search Engine Opitimization. Which is how search engine look for browser structure and grade them in accordance S.E.O guidlines. SEO is commonly used by search engines such as Google and Duckduckgo.
+
 * Each page is a separate document. So in other words, each webpage is a one or more documents.
 * The importance of page structure for Accessibility purposes is immesurable. At the top of the model is a document object, which represents the whole document. In a tree like structure, beneath the document object is boxes with information in them which are node as **nodes**.
 * The use of a rendering engine to show the page on screen. If there is no CSS, the rendering engine will apply default styles to HYML elements.
