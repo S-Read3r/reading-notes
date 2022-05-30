@@ -3,7 +3,7 @@
 Images are an important part of a website and how to add images to pages, choosing the right format and optimizing them is just as important.There are many reasons why you might want to add an image to a web page: you might want to include a logo, photograph, illustration, diagram, or chart. 
 
 In short, .png image format provide a more indept image and their file size is larger compared to .jpeg.
-Images are added by the <img> tag and a src="Image-location" attribute. The **alt** attribute can be used to provide additional information about the image.
+Images are added by the \\<img> tag and a src="Image-location" attribute. The **alt** attribute can be used to provide additional information about the image.
 
 # Color 246-263
 
