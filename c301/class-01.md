@@ -93,3 +93,6 @@ In this view, instead of creating each component from scratch, the system is bui
 * Encapsulation: Components may be used to hide the implementation details of the functionality.
 * Security: Components may be used to protect the integrity of the application.
 * Independence: Components are designed to have minimal dependencies on other components.
+
+## What is Props?
+
